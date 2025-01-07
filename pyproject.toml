@@ -9,7 +9,6 @@ readme = "README.md"
 python = "^3.10"
 telebot = "0.0.5"
 pyTelegramBotAPI = "4.26.0"
-dotenv = "1.0.1"
 
 
 [build-system]
